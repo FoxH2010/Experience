@@ -10,4 +10,4 @@ Các bước thực hiện:
 2. Thay đổi tùy chọn trong file *config.php*.
 3. Khởi chạy và bắt đầu từ file *index.php*  
 ## Lời cuối
-Chúng em mới chỉ thử nghiệm trên máy khách sử dụng Apache Web Server theo XAMPP (và cả MySQL), thế nên có thể có lỗi, nhưng với độ hoàn thiện này của sản phẩm thì em khá chắc là không có đâu.
+Đã có máy chủ để truyền tải nội dung sản phẩm. Truy cập http://summerjourney.rf.gd để theo dõi sản phẩm.
