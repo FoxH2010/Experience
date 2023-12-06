@@ -84,15 +84,6 @@
                         <p>200 điểm</p>
                     </div>
                 </li>
-                <li>
-                    <div class="single-list-topics-content">
-                        <div class="single-list-topics-icon">
-                            <i class="flaticon-transport"></i>
-                        </div>
-                        <h2><a href="#">phương tiện</a></h2>
-                        <p>120 điểm</p>
-                    </div>
-                </li>
             </ul>
         </div>
     </div><!--/.container-->
