@@ -80,7 +80,7 @@
                         <div class="single-list-topics-icon">
                             <i class="flaticon-pills"></i>
                         </div>
-                        <h2><a href="#">chăm sóc sức khỏe</a></h2>
+                        <h2><a href="nurse.php">chăm sóc sức khỏe</a></h2>
                         <p>200 điểm</p>
                     </div>
                 </li>
