@@ -6,9 +6,9 @@
 						<ul>
 							<li class="select-opt">
 								<select name="language" id="language">
-									<option value="default">VI</option>
-									<option value="Bangla">LA</option>
-									<option value="Arabic">JA</option>
+									<option value="default">Tiếng Việt</option>
+									<option value="Simpified-Chinese">简体中文</option>
+									<option value="Japanese">日本語</option>
 								</select>
 							</li>
 							<li class="select-opt">
